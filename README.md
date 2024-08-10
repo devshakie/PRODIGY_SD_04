@@ -16,7 +16,7 @@ The Sudoku Solver is a web-based application built with React that generates and
 + npm (v6 or later)
 ## Installation
 ### Clone the repository:
-git clone https://github.com/devshakie/sudoku-solver.git
+git clone https://github.com/devshakie/PRODIGY_SD_04.git
 ### Navigate to the project directory:
 cd sudoku-solver
 ### Install dependencies:
